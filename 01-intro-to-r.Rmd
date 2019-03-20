@@ -26,7 +26,7 @@ source("setup.R")
 
 ------------
 
-## Creating objects in R
+## Creating objects in R, just for kicks
 
 ```{r, echo = FALSE, purl = TRUE}
 ### Creating objects in R
